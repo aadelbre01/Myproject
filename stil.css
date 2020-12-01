@@ -1,0 +1,69 @@
+body {
+font-size: 120%
+font-family: Arial;
+color: black;
+margin: 0:
+
+}
+
+h1{
+font-size: 3rem;
+font-weight: normal;
+text-align: center;
+padding: 2rem
+margin: 0;
+}
+
+
+nav {
+background-color: grey;
+
+nav a {
+color: white;
+text-decoration: none;
+display: block;
+padding: 0.8rem;
+
+
+nav ul {
+margin: 0;
+display: flex;
+list-style: none;
+
+}
+
+
+main {
+ max-width: 62rem;
+ margin: auto;
+ display: flex;
+}
+
+
+article{
+width: 50%;
+margin: 2rem;
+
+}
+
+footer {
+background-color: #263238;
+color: #ffffff;
+padding: 2rem;
+margin-top: 1rem;
+}
+
+.bildlinks {
+float: left;
+margin-right: 0.5rem;
+}
+
+
+
+
+
+
+
+
+
+
