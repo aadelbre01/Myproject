@@ -15,13 +15,12 @@ Der eigentliche Inhalt der Seite steht innerhalb von <body>. Dort habe ich die �
 Mit dem Befehl <style> habe ich der Überschrift 1 direkt einen grauen Hintergrund hinzugefügt.
 Die Befehle header, article, nav und main sind für die Struktur der Webseite hilfreich. Der Befehl header ist der Kopfbereich. Im Unterschied zu head
 kann header Inhalte auf der Seite darstellen. 
-<nav> ist für die Seitennavigation vorgesehen. Innerhalb von nav kommen die Besucher der Webseite über Links zu anderen Webseiten.
-<main> ist der Hauptinhalt der Webseite und article Elemente sind Inhalte die auch eigenständig existieren können wie z.B. ein Blogeintrag.
-<footer> kennzeichnet den Fußbereich. Über den Befehl <ul>, habe ich eine ungeordnete Liste erstellt. Die Befehle <li> definieren die Aufzählungspunkte.
-<a href> macht aus den Aufzählungspunkten Links. Durch Klick auf den Links kann der Besucher zu unterschiedlichen Seiten kommen, da href zu anderen Seiten navigiert.
-Außerdem habe ich noch zwei Bilder eingebaut mittels <img src Bildname>. Wobei die Bilder im selben Ordner sein müssen, um sie auf die Seite zu bekommen.
-Mittels figcaption habe ich die Bilder beschriftet. 
-Mit dem Befehl <p> habe ich immer Zeilenumbrüche gemacht. Das letzte Tool, das ich eingebaut habe, ist das Tool <script>.
-Mittels <script> alert("Hallo Welt") </script> scheint ein Kästchen auf, dass Hallo Welt anzeigt, bevor man zu der eigentlichen Seite kommt.
-
-
+Der Befehl <nav> ist für die Seitennavigation vorgesehen. Innerhalb des Befehls <nav> kommen die Besucher über die Links zu anderen Webseiten.
+<main> stellt den Hauptteil der Webseite dar. Article Elemente sind Inhalte, die auch eigenständig existieren können. Man kann sie beispielsweise
+mit einem Blogeintrag vergleichen. <footer> kennzeichnet den Fußbereich. Über den Befehl <ul> habe ich eine ungeordnete Liste erstellt.
+Mit <li> stelle ich die Aufzählungspunkte dar. <a href> macht aus den Aufzählungspunkten Links. href verweist auf andere Webseiten. Mit Klick auf den
+Link wird man direkt auf eine andere Webseite verwiesen. Im Projekt selbst habe ich noch zwei Bilder eingebaut. Mit dem Befehl <img src Bildname> können 
+die Bilder eingefügt werden. Sie müssen sich jedoch im gleichen Ordner wie die html Datei selbst befinden. <figcaption> hat die Funktion einen Text
+beim Bild einzufügen. Mittels <p> habe ich die Zeilenumbrüche gemacht. Das letzte Tool, das ich eingebaut habe, ist das Tool <script>
+Mittels <script>alert("Hallo Welt") scheint ein Kästchen auf, bevor man auf die Seite kommt. Dieses zeigt den Text Hallo Welt an.
+  
