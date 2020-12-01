@@ -18,7 +18,7 @@ kann header Inhalte auf der Seite darstellen.
 Der Befehl <nav> ist für die Seitennavigation vorgesehen. Innerhalb des Befehls <nav> kommen die Besucher über die Links zu anderen Webseiten.
 <main> stellt den Hauptteil der Webseite dar. Article Elemente sind Inhalte, die auch eigenständig existieren können. Man kann sie beispielsweise
 mit einem Blogeintrag vergleichen. <footer> kennzeichnet den Fußbereich. Über den Befehl <ul> habe ich eine ungeordnete Liste erstellt.
-Mit "li" stelle ich die Aufzählungspunkte dar. <a href> macht aus den Aufzählungspunkten Links. href verweist auf andere Webseiten. Mit Klick auf den
+Mit "li" stelle ich die Aufzählungspunkte dar. Der Befehl "a href" macht aus den Aufzählungspunkten Links. href verweist auf andere Webseiten. Mit Klick auf den
 Link wird man direkt auf eine andere Webseite verwiesen. Im Projekt selbst habe ich noch zwei Bilder eingebaut. Mit dem Befehl "img src" können 
 die Bilder eingefügt werden. Sie müssen sich jedoch im gleichen Ordner wie die html Datei selbst befinden. <figcaption> hat die Funktion einen Text
 beim Bild einzufügen. Mittels <p> habe ich die Zeilenumbrüche gemacht. Das letzte Tool, das ich eingebaut habe, ist das Tool <script>
